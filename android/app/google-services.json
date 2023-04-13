@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451004015754",
+    "project_id": "fril-88a37",
+    "storage_bucket": "fril-88a37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451004015754:android:6b56cf20d11b1da8ca3973",
+        "android_client_info": {
+          "package_name": "com.test.fr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451004015754-t1f6v1va505o252ibvrcladjv5b5tddq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Q4f6l0bCXiJKausrgicjL3oLurpWGt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451004015754-t1f6v1va505o252ibvrcladjv5b5tddq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
